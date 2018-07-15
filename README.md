@@ -1,7 +1,7 @@
 # technical-quotes
 Consolidated technical quotes and jokes
 
-- Quotes
+- Technical Quotes
   - "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime." - David Leinweber
   - "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins." - Ellen Ullman
   - "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates
@@ -18,6 +18,8 @@ Consolidated technical quotes and jokes
   - "Truth can only be found in one place: the code." - Robert C. Martin
   - "Curly brackets are like ears: it doesn't matter how far they stick out, it's what you've got between them that counts." - @nick_battle_uk
   - "We choose to study elliptic curves, not because they are easy, but because they are hard." - John F. Kennedy
+- Others
+  - "A smooth sea never make the best sailor." - Franklin D. Roosevelt
 - References
   - Twitter
     -@codewisdom
