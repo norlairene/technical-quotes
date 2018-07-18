@@ -12,7 +12,7 @@ Consolidated technical quotes and jokes
   - "You might not think that programmers are artists, but programming is an extremely createive profession. It's logic-based creativity." - John Romero
   - "Any code of your own that you havent looked at for six or more months might as well have been written by someone else." - Eagleson's law
   - "'How did you know so much about computers?' 'I didn't, it was the first one.'" - Grace Hopper on Letterman
-  - Make it correct, make it clear, make it concise, make it fast. In that order." - Wes Dyer
+  - "Make it correct, make it clear, make it concise, make it fast. In that order." - Wes Dyer
   - "In programming, the hard part isn't solving problems, but deciding what problems to solve." - Paul Graham
   - "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time." - Tom Cargill
   - "Truth can only be found in one place: the code." - Robert C. Martin
@@ -20,6 +20,7 @@ Consolidated technical quotes and jokes
   - "We choose to study elliptic curves, not because they are easy, but because they are hard." - John F. Kennedy
 - Others
   - "A smooth sea never make the best sailor." - Franklin D. Roosevelt
+  - "The harder I work, the luckier I get." - Gary Player
 - References
   - Twitter
     -@codewisdom
