@@ -18,6 +18,7 @@ Consolidated technical quotes and jokes
   - "Truth can only be found in one place: the code." - Robert C. Martin
   - "Curly brackets are like ears: it doesn't matter how far they stick out, it's what you've got between them that counts." - @nick_battle_uk
   - "We choose to study elliptic curves, not because they are easy, but because they are hard." - John F. Kennedy
+  - "The most dangerous phrase in the language is, ‘We’ve always done it this way.’" - Grace Murray Hopper
 - Others
   - "A smooth sea never make the best sailor." - Franklin D. Roosevelt
   - "The harder I work, the luckier I get." - Gary Player
